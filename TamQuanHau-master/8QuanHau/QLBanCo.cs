@@ -95,11 +95,9 @@ namespace _8QuanHau
         }
 
         public int chedogame;
-        public QLBanCo(Panel banco, TextBox playername, PictureBox mark, int chedogame)
+        public QLBanCo(Panel banco, int chedogame)
         {
             this.Banco = banco;
-            this.PlayerName = playername;
-            this.PlayerMark = mark;
             this.Player = new List<Player>()
             {
                 new Player("Player1", Image.FromFile(Application.StartupPath + "\\resources\\Hau1.png")),
@@ -123,8 +121,7 @@ namespace _8QuanHau
             if (loai == 0)
             {
                 n = 0;
-                CurrentPlayer = 0;
-                ChangePlayer();
+                CurrentPlayer = 0;              
             }
             else
             {
@@ -399,11 +396,7 @@ namespace _8QuanHau
 
 
 
-        private void ChangePlayer()
-        {
-            PlayerName.Text = Player[CurrentPlayer].Name;
-            PlayerMark.Image = Player[CurrentPlayer].Mark;
-        }
+       
 
         public bool IsSafe(List<List<Button>> matrix,int row ,int col)
         {

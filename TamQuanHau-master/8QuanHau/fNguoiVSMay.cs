@@ -20,23 +20,12 @@ namespace _8QuanHau
             player.URL = Application.StartupPath + "\\resources\\Kiss-the-rain.mp3";
             player.controls.play();
             InitializeComponent();
-            BanCo = new QLBanCo(pnBanCo, txtNguoi1, pibNguoi1,1);
+            BanCo = new QLBanCo(pnBanCo,1);
             BanCo.EndedGame += BanCo_EndedGame;
             BanCo.Playermarked += BanCo_Playermarked;
 
-            prgbCoolDown.Value = 0;
+            
         }
-
-        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
-        {
-            if (keyData == Keys.Escape)
-            {
-                this.Close();
-                return true;
-            }
-            return base.ProcessCmdKey(ref msg, keyData);
-        }
-
 
         void EndGame()
         {
@@ -55,7 +44,7 @@ namespace _8QuanHau
         }
         void NewGame()
         {
-            prgbCoolDown.Value = 0;
+            
             BanCo.VeBanCo();
         }
 
