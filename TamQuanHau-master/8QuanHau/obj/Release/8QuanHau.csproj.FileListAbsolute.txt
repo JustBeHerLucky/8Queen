@@ -1,0 +1,14 @@
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\bin\Release\8QuanHau.exe.config
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\bin\Release\8QuanHau.exe
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\bin\Release\8QuanHau.pdb
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\bin\Release\Interop.WMPLib.dll
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\bin\Release\AxInterop.WMPLib.dll
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\Interop.WMPLib.dll
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\AxInterop.WMPLib.dll
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\8QuanHau.csproj.ResolveComReference.cache
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\_8QuanHau.fNguoiVSMay.resources
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\_8QuanHau.Properties.Resources.resources
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\8QuanHau.csproj.GenerateResource.cache
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\8QuanHau.csproj.CoreCompileInputs.cache
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\8QuanHau.exe
+C:\Users\nqt01\Desktop\TamQuanHau-KTLTr\TamQuanHau-master\8QuanHau\obj\Release\8QuanHau.pdb
